@@ -1,0 +1,40 @@
+body{
+  background-color: #72736e;
+  font-family:  'Segoe UI','Open Sans', 'Helvetica Neue', sans-serif;
+  margin-left: 10px;
+}
+
+
+#quadro{
+  position: relative;
+}
+
+#professor{
+  position: absolute;
+  max-width: 400px;
+  max-height: 400px;
+
+  left: 650px;
+  top: 230px;
+}
+
+.tabuadas{
+  position: absolute;
+  top: 150px;
+  margin-left: 100px;
+  
+  width: 110px;
+  height: 200px;
+
+  border: ridge;
+  border-radius: 10px;
+}
+
+#respostas{
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+#tabela{
+  margin-top: -60px;
+}
