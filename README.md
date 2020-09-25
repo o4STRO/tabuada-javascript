@@ -1,6 +1,6 @@
 #Linguagem foco:
 
-  #JAVASCRIPT
+##JAVASCRIPT
 
 Uma página web que permite visualizar uma tabuada.
 
